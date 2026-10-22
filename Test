@@ -48,15 +48,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php_harvesters_30d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_1.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_2.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_3.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_4.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_5.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_6.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_7.txt
-https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_8.txt
-https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/refs/heads/main/full-outgoing-ip-40k.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
@@ -153,8 +144,4 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geo
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_je.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_tk.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_py.netset
-https://iplists.firehol.org/files/maltrail_scanners.ipset
-https://api.greynoise.io/v3/tags/4454bcc7-d416-4bc9-8e85-e860c82369c2/ips?format=txt&token=QQbXBl9iSxWfBjvqAgNodg
-https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format=txt&token=iCo1cIG0SvyJdkEozInOA
-https://api.greynoise.io/v3/tags/537cee16-c4a9-45cd-baf1-75963ab7bdd2/ips?format=txt&token=QWjWOA80SqqYzwKWVB8Q
 https://voipbl.org/update
