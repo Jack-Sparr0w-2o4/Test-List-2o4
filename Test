@@ -166,7 +166,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geo
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_tk.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_py.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_as.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_gg.netset
 https://iplists.firehol.org/files/maltrail_scanners.ipset
 https://api.greynoise.io/v3/tags/4454bcc7-d416-4bc9-8e85-e860c82369c2/ips?format=txt&token=QQbXBl9iSxWfBjvqAgNodg
 https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format=txt&token=iCo1cIG0SvyJdkEozInOA
